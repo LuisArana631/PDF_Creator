@@ -1,0 +1,28 @@
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.pdb
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.xml
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbprojAssemblyReference.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.Resources.resources
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbproj.GenerateResource.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.xml
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.pdb
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.Form1.resources
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbproj.CopyComplete
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.AcercaDE.resources
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.exe.config
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.exe
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.pdb
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\bin\Debug\Proyecto1_201700988.xml
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbprojAssemblyReference.cache
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.AcercaDE.resources
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.Form1.resources
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.Resources.resources
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbproj.GenerateResource.cache
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbproj.CoreCompileInputs.cache
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.vbproj.CopyComplete
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.exe
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.xml
+E:\CURSOS_USAC\LENGUAJES_FORMALES\Proyecto1_201700988\Proyecto1_201700988\obj\Debug\Proyecto1_201700988.pdb
